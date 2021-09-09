@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-homework course
+всем привет и я хочу покорить языки программирования!
