@@ -17,10 +17,10 @@
 # submit_button.click()
 
 # login = driver.find_element_by_id('id_login_email')
-# login.send_keys('toshiydo@gmail.com')
+# login.send_keys('******@gmail.com')
 
 # password = driver.find_element_by_name('password')
-# password.send_keys('qw11wq11')
+# password.send_keys('*****')
 
 # button = driver.find_element_by_css_selector(".sign-form__btn")
 # button.click()
